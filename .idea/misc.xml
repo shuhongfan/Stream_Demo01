@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/stream/pom.xml" />
         <option value="$PROJECT_DIR$/strem-01-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-02-stream/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-01-lambda/pom.xml" />
       </list>
     </option>
   </component>
